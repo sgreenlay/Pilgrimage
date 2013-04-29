@@ -6,7 +6,7 @@ The monks of the brotherhood of the white cloak have set out on a mission from e
 Controls
 ==
 
-Click on the monks to bring them in and out of prayer. The speed of the ships depends on the number of active monks.
+Click on the monks to bring them in and out of prayer. The speed of the ship depends on the number of active monks.
 Click on the monks' water and food bars to make them eat/drink from the ship's reserves.
 
 About
