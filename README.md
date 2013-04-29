@@ -14,6 +14,6 @@ About
 
 Pilgrimage is a game built in 12h (too many other things were going on that weekend) for the 26th Ludum Dare 48h game creation competition.
 
-You can see the submission here: []
+You can see the submission here: http://www.ludumdare.com/compo/ludum-dare-26/?action=preview&uid=18986
 
 **The code is very messy and hacked together. Maybe someday I will come back and clean it up.**
