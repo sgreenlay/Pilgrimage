@@ -1,4 +1,3 @@
-
 require('js/engine/components/event.js', function () {
 require('js/engine/components/inputman.js', function () {
 require('js/engine/components/renderman.js', function () {
@@ -11,7 +10,7 @@ require('js/pilgrimage/components/starfield.js', function () {
 namespace('sg.pilgrimage.game', (function() {
 	
 	var game = function() {
-		this.debugMode = true;
+		this.debugMode = false;
 	};
 
 	game.prototype.init = function(renderman) {
